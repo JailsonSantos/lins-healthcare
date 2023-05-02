@@ -26,7 +26,7 @@
 
 <h2 align="left" id="layout">🎨 Layout Mobile</h2>
 
-![ezgif com-resize (1)](https://user-images.githubusercontent.com/11697713/235743397-5aca822e-305c-4053-afee-175d3cc6d6e7.gif)
+![ezgif com-resize (2)](https://user-images.githubusercontent.com/11697713/235744251-76f4c64e-e015-4e87-bdda-8b486cfdeaaf.gif)
 
 <h3 align="left" id="tecnologias">🛠 Tecnologias</h3>
 <p align="justify">As seguintes Tecnologias e bibliotecas utilizadas na construção do projeto</p>
