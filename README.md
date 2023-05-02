@@ -1,4 +1,4 @@
-<h1 align="center">Lins Healthcare</h1>,  
+<h1 align="center">Lins Healthcare</h1> 
 
 <p align="center">Uma Aplicação parar realizar agendamento de consultas.</p>
 
